@@ -1,0 +1,16 @@
+.Titulo {
+    color:#FFFFFF;
+}
+
+.texto {
+    color: #343A40;
+}
+
+body {background-color: #F4F4F9;}
+
+.quadrado-tt {  background-color: #2C3E50;
+                width: 1000px;
+                height: 100px;
+            }
+
+.titulo2 {color: #2C3E50;}
